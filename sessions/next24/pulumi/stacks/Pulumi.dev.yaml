@@ -1,0 +1,10 @@
+config:
+  gcp:project: pulumi-devrel
+  gcp:region: us-central1
+  serverless-java-langchain4j:appPath: ./app
+  serverless-java-langchain4j:errorDocument: error.html
+  serverless-java-langchain4j:indexDocument: index.html
+  serverless-java-langchain4j:project_id: "842189475220"
+  serverless-java-langchain4j:project_number: "1234"
+  serverless-java-langchain4j:region: us-central1
+  serverless-java-langchain4j:sitePath: ./www
